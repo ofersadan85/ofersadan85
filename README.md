@@ -1,7 +1,11 @@
+<div align="center">
+  
+[![Ofer Sadan on stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/4669778?color=%23F0A200&style=for-the-badge)](https://stackoverflow.com/users/4669778/ofer-sadan)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofersadan85&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Codewars](https://www.codewars.com/users/ofersadan85/badges/large)](https://www.codewars.com/users/ofersadan85)
-
+</div>
 <!--
 **ofersadan85/ofersadan85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
