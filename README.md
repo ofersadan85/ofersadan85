@@ -3,11 +3,11 @@
 ## Programming languages
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/typescript-%23150458?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Operating Systems
 
@@ -79,11 +79,3 @@
 - You can hire me! Contact me on [Linkedin](https://www.linkedin.com/in/ofer-sadan/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofer-sadan/)
-
-## Trophies / Achievements
-
-[![Ofer Sadan on stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/4669778?color=%23F0A200&style=for-the-badge)](https://stackoverflow.com/users/4669778/ofer-sadan)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ofersadan85&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-![Achievements](https://github-profile-trophy.vercel.app/?username=ofersadan85&theme=onedark)
