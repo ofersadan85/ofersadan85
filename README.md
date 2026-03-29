@@ -1,4 +1,17 @@
-# 🎗️ Ofer Sadan 🎗️
+<h1 align="center">🎗️ Ofer Sadan</h1>
+
+<p align="center">
+  <strong>Software Engineer • Problem Solver • Systems & Cloud Enthusiast</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ofer-sadan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ofer%20Sadan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/4669778/ofer-sadan">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</p>
 
 ## Programming languages
 
@@ -64,7 +77,7 @@
 ## Other notable expertise
 
   ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-  ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
